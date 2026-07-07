@@ -1,0 +1,8 @@
+{
+  "name": "Smart Hostel Management System",
+  "description": "A comprehensive full-stack hostel management platform for students, wardens, and admins, featuring automated leave, complaint, and fee tracking with an intelligent Gemini AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
